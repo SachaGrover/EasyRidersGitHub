@@ -2,9 +2,9 @@ html, body {
   overflow-y:scroll;
 }
 nav {
-  background-image: url("profiles/StarsBottom.jpg");
+  background-image: url("profiles/Top3.jpg");
     /* Set the height and other styles as needed */
-    min-height:30vh; /* Adjust as necessary */
+    min-height:25vh; /* Adjust as necessary */
     background-position: right 100%;
     background-repeat: no-repeat;
     background-size: cover; /* Scale the image to fit the white part */
